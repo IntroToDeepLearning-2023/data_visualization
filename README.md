@@ -35,6 +35,9 @@ This script loads random npy and truth images, displays them in a subplot grid, 
 - The color mapping for npy images is grayscale.
 - Images are randomly selected for demonstration purposes.
 - Adjustments can be made to the script for different configurations or use cases.
+  
+## Image
+![images](https://github.com/IntroToDeepLearning-2023/data_visualization/assets/44385819/d8be515c-0382-42b9-97b8-9933e9e22482)
 
 ## License
 
