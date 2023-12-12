@@ -78,15 +78,12 @@ No specific configuration is needed. However, running the code on CPU might be s
 ## Run the 
 
 Clone the repository:
-\`\`\`bash
-git clone https://github.com/IntroToDeepLearning-2023/data_visualization.git
-cd your-repository
-\`\`\`
+`git clone https://github.com/IntroToDeepLearning-2023/data_visualization.git`
+`cd your-repository`
 
 Run the provided Python script:
-\`\`\`bash
-python visualize_images.py
-\`\`\`
+`python visualize_images.py`
+
 This script loads random npy and truth images, displays them in a subplot grid, and saves the figure as images.png.
 
 ## 7. Results:
