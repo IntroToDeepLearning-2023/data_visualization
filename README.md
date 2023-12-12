@@ -72,10 +72,10 @@ Configure your environment for GPU usage by running the following command:
 
 This will ensure your code utilizes the available GPU resources for faster processing.
 
-### Other environment (CPU, local machine):
+#### Other environment (CPU, local machine):
 No specific configuration is needed. However, running the code on CPU might be slower compared to GPU.
 
-## Run the 
+#### Run the 
 
 Clone the repository:
 `git clone https://github.com/IntroToDeepLearning-2023/data_visualization.git`
